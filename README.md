@@ -1,4 +1,7 @@
 # Life Pattern Analytics 📊
+## 📊 Dashboard Preview
+
+![Life Pattern Analytics Dashboard](dashboard.png)
 
 A data analytics project that explores the relationship between daily lifestyle habits, mood, and productivity using Python and Power BI.
 
