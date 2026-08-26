@@ -77,3 +77,36 @@ Life-pattern-analytics/
 ├── life_pattern_data.csv
 ├── Life_Pattern_Analytics.pbix
 └── README.md
+## 📌 Key Insights
+
+- 😴 **Sleep & Productivity:** Higher sleep duration is associated with higher productivity.
+- 📱 **Screen Time & Productivity:** Higher screen time is associated with lower productivity.
+- 🏃 **Exercise & Mood:** More exercise is associated with better mood.
+- 📚 **Study Hours & Productivity:** Study hours show a positive relationship with productivity.
+- 💧 **Water Intake:** Water intake shows a moderate relationship with productivity.
+
+### Correlation Highlights
+
+| Factor | Correlation |
+|---|---:|
+| Sleep → Productivity | 0.546 |
+| Screen Time → Productivity | -0.425 |
+| Exercise → Mood | 0.354 |
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- CSV Dataset
+- Git & GitHub
+## 📁 Project Structure
+
+```text
+life-pattern-analytics/
+├── generate_dataset.py
+├── life_pattern_data.csv
+├── Life_Pattern_Analytics.pbix
+├── dashboard.png
+└── README.md
