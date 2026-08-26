@@ -111,6 +111,7 @@ life-pattern-analytics/
 ├── dashboard.png
 └── README.md
 ## 🚀 How to Run
+```text
 
 ### 1. Clone the Repository
 
