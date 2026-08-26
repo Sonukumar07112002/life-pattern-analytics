@@ -110,3 +110,13 @@ life-pattern-analytics/
 ├── Life_Pattern_Analytics.pbix
 ├── dashboard.png
 └── README.md
+## 🚀 How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Sonukumar07112002/life-pattern-analytics.git
+cd life-pattern-analytics
+pip install pandas numpy matplotlib
+python generate_dataset.py
+Open Life_Pattern_Analytics.pbix using Microsoft Power BI Desktop.
