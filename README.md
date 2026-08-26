@@ -77,7 +77,7 @@ Life-pattern-analytics/
 ├── life_pattern_data.csv
 ├── Life_Pattern_Analytics.pbix
 └── README.md
-## 📌 Key Insights
+## 🚀 Key Insights
 
 - 😴 **Sleep & Productivity:** Higher sleep duration is associated with higher productivity.
 - 📱 **Screen Time & Productivity:** Higher screen time is associated with lower productivity.
@@ -117,6 +117,22 @@ life-pattern-analytics/
 ```bash
 git clone https://github.com/Sonukumar07112002/life-pattern-analytics.git
 cd life-pattern-analytics
+```
+
+### 2. Install Python Libraries
+
+```bash
 pip install pandas numpy matplotlib
+```
+
+### 3. Generate the Dataset
+
+```bash
 python generate_dataset.py
-Open Life_Pattern_Analytics.pbix using Microsoft Power BI Desktop.
+```
+
+### 4. Open the Power BI Dashboard
+
+Open `Life_Pattern_Analytics.pbix` using Microsoft Power BI Desktop.
+
+The dashboard contains KPI cards, lifestyle analysis charts, monthly productivity trends, and an interactive month slicer.
