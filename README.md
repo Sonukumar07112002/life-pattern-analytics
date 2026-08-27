@@ -77,6 +77,7 @@ Life-pattern-analytics/
 ├── life_pattern_data.csv
 ├── Life_Pattern_Analytics.pbix
 └── README.md
+
 ## 🚀 Key Insights
 
 - 😴 **Sleep & Productivity:** Higher sleep duration is associated with higher productivity.
@@ -102,6 +103,7 @@ Life-pattern-analytics/
 - Power BI
 - CSV Dataset
 - Git & GitHub
+
 ## 📁 Project Structure
 
 ```text
