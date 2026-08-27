@@ -92,6 +92,7 @@ Life-pattern-analytics/
 | Sleep → Productivity | 0.546 |
 | Screen Time → Productivity | -0.425 |
 | Exercise → Mood | 0.354 |
+
 ## 🛠️ Tools & Technologies
 
 - Python
