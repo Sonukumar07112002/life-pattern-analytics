@@ -110,8 +110,8 @@ life-pattern-analytics/
 ├── Life_Pattern_Analytics.pbix
 ├── dashboard.png
 └── README.md
-### 🚀 How to Run
-```text
+
+## 🚀 How to Run
 
 ### 1. Clone the Repository
 
